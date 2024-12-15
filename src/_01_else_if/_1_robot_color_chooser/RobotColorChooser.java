@@ -18,8 +18,8 @@ String color = JOptionPane.showInputDialog("What color would you like for my rob
 		if(color.equalsIgnoreCase("red")){
 			tibbles.setPenColor(Color.red);
 		}
-		else if(color.equalsIgnoreCase("green")){
-			tibbles.setPenColor(Color.green);
+		else if(color.equalsIgnoreCase("yellow")){
+			tibbles.setPenColor(Color.yellow);
 		}
 		else if(color.equalsIgnoreCase("blue")){
 			tibbles.setPenColor(Color.blue);
