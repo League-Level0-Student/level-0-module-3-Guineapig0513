@@ -18,6 +18,7 @@ void draw() {
     }
   ellipse(250, 250, i, i);
   }
+  
   //Use an if statement and remainder to alternate the color of your rings.
   
   
